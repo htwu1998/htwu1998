@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Haotian Wu @htwu1998 and I also go by Nick
-- :school: I'm currently pursuing a Master of Science, Business Analytics degree at USC Marshall
-- 👀 I’m interested in data science, machine learning, and advanced analytics as well as data visualizations
-- :video_game: I'm a huge gamer myself and also loves cooking, hiking, and traveling
-- 🌱 I’m profiecient in using SQL, Python, R, and Tableau for data science projects
-- 💞️ I’m looking to collaborate on any data science projects in the field of gaming or marketing
-- :cat: FYI I'm also the father of my little kitten Nori (ins: @fantuanmeow)
-- 📫 My work email is Haotian.Wu.2021@marshall.usc.edu and my personal email is htwu1998@gmail.com
+- 🏢 I'm currently an Analytics Engineer at Realtor.com, developing source-of-truth data-mart for all stakeholders
+- :school: I have graduated with a Master of Science, Business Analytics degree at USC Marshall in 2022
+- 👀 I’m interested in data science, data engineering, and advanced analytics as well as data visualizations
+- :video_game: I'm a huge gamer myself and also loves cooking, hiking, fishing, and traveling
+- 🌱 I’m advanced in using SQL, Python, R, and Tableau for business intelligence projects
+- 💞️ I’m looking to collaborate on any new data projects and trying out new tools
+- :cat: FYI I'm also the dad of three cats
+- 📫 My work email is nick.wu@realtor.com and my personal email is htwu1998@gmail.com
 
 <!---
 htwu1998/htwu1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
